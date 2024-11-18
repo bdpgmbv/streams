@@ -1,0 +1,33 @@
+allMatch(Predicate<? super T> predicate)
+
+anyMatch(Predicate<? super T> predicate)
+
+builder()
+
+collect(Collector<? super T, A, R> collector)
+
+collect(Supplier<R> supplier, BiConsumer<R, ? super T> accumulator, BiConsumer<R, R> combiner)
+
+concat(Stream<? extends T> a, Stream<? extends T> b)
+
+count() 
+
+distinct()
+
+empty()
+
+filter(Predicate<? super T> predicate)
+
+findAny()
+
+findFirst()
+
+flatMap(Function<? super T, ? extends Stream<? extends R>> mapper)
+
+flatMapToDouble(Function<? super T, ? extends DoubleStream> mapper)
+
+flatMapToInt(Function<? super T, ? extends IntStream> mapper)
+
+flatMapToLong(Function<? super T, ? extends LongStream> mapper)
+
+ 
