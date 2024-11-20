@@ -1,8 +1,8 @@
-package ArraysStream;
+package arrays;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
-/**
+/*
  * 11/16/2024 - 7:50 PM
  *
  * @author Vyshali Prabananth Lal

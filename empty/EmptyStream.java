@@ -1,10 +1,10 @@
-package EmptyStream;
+package empty;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
-/**
+/*
  * 11/16/2024 - 8:35 PM
  *
  * @author Vyshali Prabananth Lal

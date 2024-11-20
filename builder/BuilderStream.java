@@ -1,8 +1,8 @@
-package BuilderStream;
+package builder;
 
 import java.util.stream.Stream;
 
-/**
+/*
  * 11/16/2024 - 9:37 PM
  *
  * @author Vyshali Prabananth Lal
